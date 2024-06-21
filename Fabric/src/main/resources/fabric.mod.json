@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "paperbooks",
-  "version": "3.3",
+  "version": "3.4",
 
   "name": "Paper Books",
   "description": "Allows the creation of books with 9 paper.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.21",
     "java": ">=21",
-    "collective": ">=7.61"
+    "collective": ">=7.62"
   },
 
   "custom": {
@@ -48,8 +48,8 @@
 	  " Cherriesaurus",
 	  " Jeremy Langford",
 	  " Michael W. S.",
-	  " Rare Students",
 	  " Shana Gitnick",
+	  " Sukhmai",
 	  " Tyler Behl"
   ]
 }
