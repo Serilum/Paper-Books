@@ -1,4 +1,4 @@
-package com.natamus.paperbooks;
+package com.serilum.paperbooks;
 
 
 public class ModCommon {
