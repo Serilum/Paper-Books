@@ -1,5 +1,5 @@
 <h2>Paper Books</h2>
-<p><a href="https://github.com/Serilum/Paper-Books"><img src="https://serilum.com/assets/images/logo/paper-books.png"></a></p><h2>Download</h2>
+<p><a href="https://github.com/Serilum/Paper-Books"><img src="https://workflow.serilum.com/web/logo/128/paper-books.png" width="100" height="100"></a></p><h2>Download</h2>
 <p>You can download Paper Books on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/paper-books">https://curseforge.com/minecraft/mc-mods/paper-books</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/paper-books">https://modrinth.com/mod/paper-books</a></p>
 <h2>Issue Tracker</h2>
 <p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>

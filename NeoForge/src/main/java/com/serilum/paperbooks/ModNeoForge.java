@@ -1,10 +1,9 @@
-package com.natamus.paperbooks;
+package com.serilum.paperbooks;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.paperbooks.util.Reference;
+import com.serilum.paperbooks.util.Reference;
 import net.neoforged.bus.api.IEventBus;
-import net.neoforged.fml.ModLoadingContext;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.event.lifecycle.FMLLoadCompleteEvent;
 
